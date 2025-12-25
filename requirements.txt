@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+psutil==5.9.5
+scapy==2.5.1
+matplotlib==3.7.2
+reportlab==3.8.1
